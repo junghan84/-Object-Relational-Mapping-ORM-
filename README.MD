@@ -59,7 +59,7 @@ screenshot for generate HTML webpages
 
 ## Repo-link
 
-![E-Commerce Back End](at https://junghan84.github.io/Note_Taker/ ) 
+![E-Commerce Back End](at https://junghan84.github.io/-Object-Relational-Mapping-ORM-/ ) 
 
 ## Video
 
