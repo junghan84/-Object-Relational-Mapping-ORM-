@@ -1,4 +1,5 @@
 const router = require('express').Router();
+//const { Model } = require('sequelize/types');
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
@@ -20,7 +21,6 @@ router.get('/', (req, res) => {
     res.status(500).json(err);
   });
 });
-
 
 router.get('/:id', (req, res) => {
   // find a single tag by its `id` with associated Product data
@@ -49,7 +49,6 @@ router.get('/:id', (req, res) => {
   });
 });
 
-
 router.post('/', (req, res) => {
   // create a new tag
   Tag.create({
@@ -61,7 +60,6 @@ router.post('/', (req, res) => {
     res.status(500).json(err);
   });
 });
-
 
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
