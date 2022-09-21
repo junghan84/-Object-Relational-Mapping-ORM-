@@ -51,7 +51,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 screenshot for generate HTML webpages
 
-![screenshot](./public/assets/images/NoteTakerScreenShot.png) 
+![screenshot]
 
 ## Deployed-link
 
@@ -63,7 +63,13 @@ screenshot for generate HTML webpages
 
 ## Video
 
-![E-Commerce Back End Video](https://drive.google.com/file/d/1kdZ4uFPEot07F3puXEnKbRlbPrye7O6u/view)
+![E-Commerce Set up Video](https://drive.google.com/file/d/1DDnnCyUx9UbUCHhMmmleIt6Ob-2m9zzJ/view)
+
+![E-Commerce Get All Video](https://drive.google.com/file/d/1BHiLsJG5EAeYZHNUMApaL1SqRDJN-0gC/view)
+![E-Commerce Get by ID Video](https://drive.google.com/file/d/14VuC4l6iPrkb1PAo82zVISrP2cQGcPsL/view)
+![E-Commerce Tag POST UPDATE DELETE Video](https://drive.google.com/file/d/16KoFSL7Znb5MbEOTpFQxiO3H8BLLOHL8/view)
+![E-Commerce Category PUD Video](https://drive.google.com/file/d/1ohVxL95R9AXulT3EMUuic44EmnA6ohLc/view)
+![E-Commerce Product PUD Video](https://drive.google.com/file/d/1LzPfM1MzOo_eeeFwGbPh3Tdg4YMKo908/view)
 
 ## Authors
 JungHan Seo
