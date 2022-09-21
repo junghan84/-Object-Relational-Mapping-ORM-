@@ -63,13 +63,13 @@ screenshot for generate HTML webpages
 
 ## Video
 
-![E-Commerce Set up Video](https://drive.google.com/file/d/1DDnnCyUx9UbUCHhMmmleIt6Ob-2m9zzJ/view)
+![E-Commerce Set up Video](./Assets/DB%20setup%20and%20start.gif?raw=true "Setup Video")
 
-![E-Commerce Get All Video](https://drive.google.com/file/d/1BHiLsJG5EAeYZHNUMApaL1SqRDJN-0gC/view)
-![E-Commerce Get by ID Video](https://drive.google.com/file/d/14VuC4l6iPrkb1PAo82zVISrP2cQGcPsL/view)
-![E-Commerce Tag POST UPDATE DELETE Video](https://drive.google.com/file/d/16KoFSL7Znb5MbEOTpFQxiO3H8BLLOHL8/view)
-![E-Commerce Category PUD Video](https://drive.google.com/file/d/1ohVxL95R9AXulT3EMUuic44EmnA6ohLc/view)
-![E-Commerce Product PUD Video](https://drive.google.com/file/d/1LzPfM1MzOo_eeeFwGbPh3Tdg4YMKo908/view)
+![E-Commerce Get All Video](./Assets/GET%20all.gif?raw=true"Get All Video")
+![E-Commerce Get by ID Video](./Assets/TAG_PDU.gif?raw=true"Get By ID")
+![E-Commerce Tag POST UPDATE DELETE Video](./Assets/TAG_PDU.gif?raw=true"Tag PUD Video")
+![E-Commerce Category PUD Video](./Assets/CATEGORY_PDU.gif?raw=true"Category PUD Video")
+![E-Commerce Product PUD Video](./Assets/PRODUCT_PDU.gif?raw=true"Product PUD Video")
 
 ## Authors
 JungHan Seo
